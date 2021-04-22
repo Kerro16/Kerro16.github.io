@@ -11,7 +11,7 @@ body {
 #container {
 	margin:				0 10px;
 	padding:			0;
-	background:			#fff url(bg.gif) top left repeat-y;
+	background:			#fff url(http://bogna.best.net.pl/ao/wiki/bg.gif) top left repeat-y;
 }
 
 a,
@@ -31,16 +31,16 @@ a.newpage {
 /* header */
 
 #header {
-	background:			url(head.gif) top center repeat-x;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/green_head.png) top center repeat-x;
 	height:				140px;
-	border-right:			#fff solid 1px;
+	border-right:			#ffffff solid 1px;
 }
 #header h1 {
 	display:			block;
 	height:				140px;
-	width:				265px;
+	width:				360px;
 	float:				left;
-	background:			url(logo.gif) top left no-repeat;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/logo.png) top left no-repeat;
 }
 #header h1 a {
 	display:			none;
@@ -48,19 +48,19 @@ a.newpage {
 .localizer {
 	padding:			6px 10px 6px 130px;
 	font-size:			9px;
-	color:				#666;
+	color:			#666;
 	position:			absolute;
 	left:				0px;
 	top:				0;
 	z-index:			45;
-	background:			url(localizer.gif) 20px 8px no-repeat;
+	background:		url(http://angels-es.wikidot.com/local--files/admin:home/localizador.png) 20px 8px no-repeat;
 }
 .localizer a {
-	color:				#333;
+	color:			#333;
 	text-decoration:		none;
 }
 .localizer a:hover {
-	color:				#C43349;
+	color:			#C43349;
 }
 
 
@@ -75,11 +75,11 @@ a.newpage {
 	display:			block;
 	height:				18px;
 	letter-spacing:			1px;
-	color:				#fff;
+	color:				#088A08;
 	font-weight:			bold;
 	text-align:			center;
 	text-decoration:		none;
-	background:			url(button-top.gif) top left no-repeat;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/button-top.png) top left no-repeat;
 	padding:			7px 0 0 5px;
 }
 #header #login-status a[href*="account:you"],
@@ -189,8 +189,8 @@ a.newpage {
 	list-style-image:		none;
 	overflow:			visible;
 	height:				14px;
-	background-color:		#F4F9FE;
-	border:				1px solid #C43349;
+	background-color:		#E4FBEF;
+	border:				1px solid #009900;
 	padding:			2px 4px;
 	width:				60px;
 	text-align:			center;
@@ -203,7 +203,7 @@ a.newpage {
 #header #top-bar ul li:hover ul li ul {
 	padding:			1px 0;
 	background-color:		#fff;
-	border:				1px solid #C43349;
+	border:				1px solid #009900;
 	display: 			none;
 	float:				right;
 	position:			relative;
@@ -226,7 +226,7 @@ a.newpage {
 	border:				none;
 	text-align:			right;
 	float:				right;
-	background-color:		#F4F9FE;
+	background-color:		#E4FBEF;
 	color:				#000;
 }
 #header #top-bar ul ul li a,
@@ -298,7 +298,7 @@ a.newpage {
 	font-family:			verdana, arial;
 	font-size:			9px;
 	font-weight:			bold;
-	background:			url(search.gif) bottom right no-repeat;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/search.png) bottom right no-repeat;
 	border:				none;
 	color:				#fff;
 	padding:			2px 0;
@@ -315,14 +315,14 @@ a.newpage {
 	width:				154px;
 	clear:				left;
 	border-left:			#fff solid 1px;
-	background:			#275AAE url(menu-bg.gif) bottom left repeat-x;
+	background:			#009900 url(menu-bg.gif) bottom left repeat-x;
 	padding:			0 0 100px 0;
 }
 #side-bar h1 {
 	font-size:			11px;
 	width:				123px;
-	background:			url(menu-h1.gif) bottom left no-repeat;
-	color:				#fff;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/menu_h1.png) bottom left no-repeat;
+	color:				#088A08;
 	text-align:			right;
 	padding:			4px 10px 2px 10px;
 	margin-top:			10px;
@@ -335,7 +335,7 @@ a.newpage {
 #side-bar li {
 	display:			block;
 	width:				143px;
-	background:			url(menu-li.gif) top left repeat-y;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/menu_li.png) top left repeat-y;
 	margin:				1px 0 0 0;
 	list-style-image:		none;
 }
@@ -345,15 +345,15 @@ a.newpage {
 	font-weight:			bold;
 	text-decoration:		none;
 	padding:			5px 5px 6px 25px;
-	background:			url(dot.gif) 7px 7px no-repeat;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/star.png) 7px 7px no-repeat;
 }
 #side-bar li a:hover {
-	background-image:		url(dot2.gif);
+	background-image:		url(http://angels-es.wikidot.com/local--files/admin:home/hstar.png);
 }
 #side-bar div {
 	display:			block;
 	width:				133px;
-	background:			url(menu-li.gif) top left repeat-y;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/menu_li.png) top left repeat-y;
 	margin-top:			1px;
 	padding:			5px;
 }
@@ -376,10 +376,10 @@ a.newpage {
 	font-weight:			bold;
 	text-decoration:		none;
 	padding:			100px 200px 5px 25px;
-	background:			url(dot.gif) 7px 102px no-repeat;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/star.png) 7px 102px no-repeat;
 }
 #side-bar div.home a:hover {
-	background-image:		url(dot2.gif);
+	background-image:		url(http://angels-es.wikidot.com/local--files/admin:home/hstar.png);
 }
 
 /* content */
@@ -390,6 +390,7 @@ a.newpage {
 }
 #main-content {
 	margin:				0 5px 10px 160px;
+	background:			#FFFFFF;
 }
 #page-content {
 }
@@ -406,7 +407,7 @@ a.newpage {
 	margin-bottom:			5px;
 }
 #main-content h2 {
-	color:				#C43349;
+	color:				#4B8A08;
 	font-size:			13px;
 	margin:				0 0 3px 0;
 	font-weight:			bold;
@@ -449,13 +450,13 @@ a.newpage {
 	padding:			3px 5px;
 	text-align:			center;
 	border:				#fff solid 1px;
-	background-color:		#F4F9FE;
+	background-color:		#EFFBF5;
 	width:				10%;
 }
 #main-content table th,
 #main-content table tr.head td {
 	font-weight:			bold;
-	background:			#D4DEEF url(h-cell.gif) top center repeat-x;
+	background:			#9BC199 url(http://angels-es.wikidot.com/local--files/admin:home/h-cell.png) top center repeat-x;
 	padding:			5px;
 }
 
@@ -544,6 +545,18 @@ a.newpage {
 	float:				left;
 	margin:				5px 10%;
 }
+#main-content div.caughtpet {
+	width:				31%;
+	float:				left;
+	margin:				5px 1%;
+}
+#main-content div.caughtpet table,
+#main-content div.caughtpet img.tree {
+	width:				31%;
+	height:				40px;
+	float:				left;
+	margin:				5px 1%;
+}
 #main-content div.pet3 hr,
 #main-content div.pet4 hr {
 	clear:				both;
@@ -570,7 +583,7 @@ a.newpage {
 #main-content div.prod-list img,
 #main-content div.order-list img,
 #main-content div.cardset-list img {
-	background:			#000 url(icon.gif) center center no-repeat;
+	background:			#000 url(http://angels-es.wikidot.com/local--files/admin:home/icon.gif) center center no-repeat;
 	font-size:			8px;
 	width:				36px;
 	height:				36px;
@@ -776,6 +789,51 @@ a.newpage {
 	font-size:			1px;
 }
 
+
+#main-content div.monster2-list table th {
+	width:				auto;
+}
+#main-content div.monster2-list table td {
+	width:				60px;
+}
+#main-content div.monster2-list table td[colspan="2"] {
+	width:				20%;
+	text-align:			left;
+}
+#main-content div.monster2-list table td[colspan="2"] a {
+	display:			block;
+	float:				left;
+	clear:				left;
+}
+#main-content div.monster2-list table td[colspan="3"] {
+	width:				70px;
+	height:				66px;
+	background-color:		#000;
+}
+#main-content div.monster2-list table td[colspan="3"] img {
+	max-width:			60px;
+	max-height:			60px;
+	overflow:			hidden;
+	font-size:			1px;
+	background-color:		#000;
+}
+#main-content div.monster2-list table td img {
+	max-width:			60px;
+	max-height:			60px;
+	overflow:			hidden;
+	font-size:			1px;
+}
+#main-content div.monster2-list table td[colspan="4"] {
+	width:				40%;
+	text-align:			left;
+}
+#main-content div.monster2-list table td[colspan="4"] a {
+	display:			block;
+	float:				left;
+	clear:				left;
+}
+
+
 #main-content div.area-list table th {
 	width:				auto;
 }
@@ -797,7 +855,7 @@ a.newpage {
 }
 #main-content div.area-list tt em {
 	display:			block;
-	background:			url(mm/bg.gif) left top no-repeat;
+	background:			url(http://angels-es.wikidot.com/local--files/directory:areas/bg_002.gif) left top no-repeat;
 	position:			relative;
 	width:				58px;
 	height:				42px;
@@ -807,7 +865,7 @@ a.newpage {
 #main-content div.area-list span.at1 tt em,
 #main-content div.area-list span.at2 tt em {
 	display:			block;
-	background:			url(mm/at-bg.gif) left top no-repeat;
+	background:			url(http://angels-es.wikidot.com/local--files/directory:areas/at-bg.gif) left top no-repeat;
 	position:			relative;
 	width:				51px;
 	height:				22px;
@@ -987,7 +1045,7 @@ a.newpage {
 #main-content .description table,
 #main-content .itemname table,
 #main-content .spellname table {
-	background:			url(monster-bg.jpg) top right no-repeat;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/monster-bg-2.jpg) top right no-repeat;
 	border-collapse:		separate;
 	border-spacing:			1px;
 	border:				none;
@@ -1029,10 +1087,10 @@ a.newpage {
 	padding:			20px;
 }
 #main-content .itemname.g table td {
-	background:			#fff url(g-bg.gif) center center repeat-x;
+	background:			#fff url(http://angels-es.wikidot.com/local--files/admin:home/g-bg.gif) center center repeat-x;
 }
 #main-content .itemname.s table td {
-	background:			#fff url(s-bg.gif) center center repeat-x;
+	background:			#fff url(http://angels-es.wikidot.com/local--files/admin:home/s-bg.gif) center center repeat-x;
 }
 #main-content .itemname table th,
 #main-content div.spell-list .spellname table th {
@@ -1044,7 +1102,7 @@ a.newpage {
 }
 #main-content .itemname table th img,
 #main-content .fashion table td img {
-	background:			#000 url(icon.gif) center center no-repeat;
+	background:			#000 url(http://angels-es.wikidot.com/local--files/admin:home/icon.gif) center center no-repeat;
 	font-size:			8px;
 	width:				36px;
 	height:				36px;
@@ -1131,7 +1189,7 @@ a.newpage {
 #main-content ul.yui-nav {
 	width:				100%;
 	max-width:			100%;
-	border-bottom-color:		#7B9ACD;
+	border-bottom-color:		#4AA02C;
 
 }
 #main-content .pet2 div.yui-navset,
@@ -1143,30 +1201,30 @@ a.newpage {
 	margin:				0 3px 0 0;
 }
 #main-content .yui-nav li {
-	background:			#D9E2F1 url(tab-grey-left.gif) left top no-repeat;
+	background:			#C3FDB8 url(http://angels-es.wikidot.com/local--files/admin:home/tab-light-green-left.png) left top no-repeat;
 	padding:			0 0 0 14px;
 	border:				none;
 }
 #main-content .yui-nav li a {
-	background:			#D9E2F1 url(tab-grey-right.gif) right top no-repeat;
+	background:			#C3FDB8 url(http://angels-es.wikidot.com/local--files/admin:home/tab-light-green-right.png) right top no-repeat;
 	border:				none;
 	margin:				0;
 	padding:			0 12px 0 0;
 }
 #main-content .yui-nav li a em {
-	background:			url(tab-grey.gif) center 1px repeat-x;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/tab-light-green.png) center 1px repeat-x;
 	border:				none;
 	padding:			5px 0 0 0;
 	margin:				0 -7px 0 -6px;
 }
 #main-content .yui-nav li.selected {
-	background:			#7B9ACD url(tab-blue-left.gif) left top no-repeat;
+	background:			#4CC552 url(http://angels-es.wikidot.com/local--files/admin:home/tab-green-left.png) left top no-repeat;
 }
 #main-content .yui-nav li.selected a {
-	background:			#7B9ACD url(tab-blue-right.gif) right top no-repeat;
+	background:			#4CC552 url(http://angels-es.wikidot.com/local--files/admin:home/tab-green-right.png) right top no-repeat;
 }
 #main-content .yui-nav li.selected a em {
-	background:			url(tab-blue.gif) center 1px repeat-x;
+	background:			url(http://angels-es.wikidot.com/local--files/admin:home/tab-green.png) center 1px repeat-x;
 	margin:				0 -7px 0 -6px;
 }
 #main-content div.yui-content {
@@ -1203,14 +1261,14 @@ a.newpage {
 	padding:			0;
 }
 #main-content div.forum-start-box .head .title {
-	color:				#C43349;
+	color:				#4AA02C;
 	font-size:			13px;
 	margin:				0 0 3px 0;
 	font-weight:			bold;
 	display:			block;
 }
 #main-content div.forum-start-box .head .description {
-	color:				#000;
+	color:				#4AA02C;
 	font-size:			11px;
 }
 #main-content div.forum-start-box table td.name {
@@ -1367,12 +1425,12 @@ a.newpage {
 	text-align:			right;
 	display:			block;
 	margin:				0 0 5px 0;
-	border:				1px solid #C43349;
+	border:				1px solid #009900;
 	width:				220px;
 }
 #main-content .right-bar2 ul hr {
 	margin:				1px 0;
-	background-color:		#C43349;
+	background-color:		##e4fbef;
 }
 #main-content .right-bar2 ul li {
 	font-weight:			bold;
@@ -1381,7 +1439,7 @@ a.newpage {
 	list-style-image:		none;
 	overflow:			visible;
 	height:				16px;
-	background-color:		#F4F9FE;
+	background-color:		#ffffff;
 	padding:			4px 10px;
 	width:				196px;
 }
@@ -1396,9 +1454,9 @@ a.newpage {
 	position:			relative;
 	right:				50px;
 	top:				-10px;
-	background-color:		#fff;
+	background-color:		#ffffff;
 	width:				172px;
-	border:				1px solid #C43349;
+	border:				1px solid #009900;
 }
 #main-content .right-bar2 ul ul li {
 	width:				150px;
@@ -1423,7 +1481,7 @@ a.newpage {
 #main-content .right-bar2 ul li span {
 	display:			block;
 	clear:				both;
-	background-color:		#C43349;
+	background-color:		#ffffff;
 	height:				1px;
 	margin:				7px 0;
 }
@@ -1438,7 +1496,7 @@ a.newpage {
 	padding:			3px 5px;
 	clear:				both; 
 	overflow:			hidden; 
-	background:			#fff url(px1.gif) top left repeat-x;
+	background:			#fff url(http://bogna.best.net.pl/ao/wiki/px1.gif) top left repeat-x;
 	font-size:			9px;
 }
 
